@@ -1,0 +1,2 @@
+# goodrepo
+for genral
